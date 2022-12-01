@@ -1,0 +1,23 @@
+/* ====================== ШРИФТИ =============================== */
+
+/* ----------------- Підключення шрифтів ----------------------- */
+
+/* ----------------- підключаємо шрифт Roboto */
+
+@import url("https://fonts.googleapis.com/css2?family=Roboto:wght@100;300;400;500;700;900&display=swap");
+
+/* ----------------- підключаємо шрифт Lato з OnlineCourse */
+
+/*
+1. Lato Bold - 640
+2. Lato Regular - 615
+3. Lato Black - 117 
+*/
+
+@import url("https://fonts.googleapis.com/css2?family=Lato:wght@400;700;900&display=swap");
+
+/* ----------------- підключаємо Poiret - Кириллические шрифт - 400 -----------------*/
+
+@import url("https://fonts.googleapis.com/css2?family=Poiret+One&display=swap");
+
+/* ----------------- підключаємо шрифт Larsseit з ThriveTalk ----------------- */
